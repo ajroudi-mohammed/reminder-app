@@ -1,4 +1,4 @@
-import { ADD_REMINDER} from "../types";
+import { ADD_REMINDER, REMOVE_REMINDER} from "../types";
 
 export const add_reminder  = (text, date) => {
     const action = {
@@ -7,5 +7,16 @@ export const add_reminder  = (text, date) => {
         date
     }
     console.log("Add", action);
+    return action
+}
+
+export const remove_reminder = (id) => {
+    const action = {
+        type: REMOVE_REMINDER,
+        id
+    }
+
+    console.log('action', action)
+
     return action
 }
