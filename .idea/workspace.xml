@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06bef099-d25b-49d9-a527-32d1fbecc24e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+    <list default="true" id="06bef099-d25b-49d9-a527-32d1fbecc24e" name="Default Changelist" comment="Added some basic html">
+      <change afterPath="$PROJECT_DIR$/src/3Steps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580802834725</updated>
-      <workItem from="1580802836689" duration="1920000" />
+      <workItem from="1580802836689" duration="6838000" />
     </task>
     <task id="LOCAL-00001" summary="Removed all default files and starting from the beginning.">
       <created>1580803880914</created>
@@ -70,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580803880914</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Integrated redux, react-redux and bootstrap libraries and done some initial coding.">
+      <created>1580805293445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580805293445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,17 +91,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed all default files and starting from the beginning." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed all default files and starting from the beginning." />
+    <MESSAGE value="Integrated redux, react-redux and bootstrap libraries and done some initial coding." />
+    <MESSAGE value="Added some basic html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some basic html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580803880628">
+    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580806407114">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580803880628" />
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580804095229">
+    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580806407114" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580805336165">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580804095229" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580805336165" />
     <state x="422" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580803910465">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
