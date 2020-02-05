@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06bef099-d25b-49d9-a527-32d1fbecc24e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,8 @@
       <updated>1580802834725</updated>
       <workItem from="1580802836689" duration="8747000" />
       <workItem from="1580827870112" duration="430000" />
-      <workItem from="1580918595453" duration="4489000" />
+      <workItem from="1580918595453" duration="4705000" />
+      <workItem from="1580928968105" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="Removed all default files and starting from the beginning.">
       <created>1580803880914</created>
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580922679487</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added storage to the App using sfcookies.">
+      <created>1580928694486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580928694486</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,17 +128,18 @@
     <MESSAGE value="ADD REMINDER functionality and linking the action and reducer with the component." />
     <MESSAGE value="REMOVE REMINDER functionality." />
     <MESSAGE value="Styling and adding datepicker widget from reactdatepicker.com" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styling and adding datepicker widget from reactdatepicker.com" />
+    <MESSAGE value="Added storage to the App using sfcookies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added storage to the App using sfcookies." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580922678964">
+    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580931041872">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580922678964" />
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580922697158">
+    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580931041872" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580928708049">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580922697158" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580928708049" />
     <state x="422" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580803910465">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
