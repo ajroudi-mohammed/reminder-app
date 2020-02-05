@@ -1,4 +1,4 @@
-import { ADD_REMINDER, REMOVE_REMINDER} from "../types";
+import { ADD_REMINDER, REMOVE_REMINDER, CLEAR_REMINDERS} from "../types";
 
 const reminders = (state = [], action) => {
 
@@ -11,6 +11,9 @@ const reminders = (state = [], action) => {
     }else if( action.type === REMOVE_REMINDER){
         reminders = state.filter(reminder => reminder.id !== action.id)
         console.log("reminders", reminders)
+        return reminders
+    }else if(action.type === CLEAR_REMINDERS ){
+        reminders = []
         return reminders
     }
 
