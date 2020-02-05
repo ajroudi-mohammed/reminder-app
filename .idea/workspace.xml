@@ -73,7 +73,7 @@
       <workItem from="1580802836689" duration="8747000" />
       <workItem from="1580827870112" duration="430000" />
       <workItem from="1580918595453" duration="4705000" />
-      <workItem from="1580928968105" duration="1706000" />
+      <workItem from="1580928968105" duration="1821000" />
     </task>
     <task id="LOCAL-00001" summary="Removed all default files and starting from the beginning.">
       <created>1580803880914</created>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580931106440</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update README.md">
+      <created>1580932029219</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580932029219</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,17 +153,18 @@
     <MESSAGE value="Styling and adding datepicker widget from reactdatepicker.com" />
     <MESSAGE value="Added storage to the App using sfcookies." />
     <MESSAGE value="Screen capture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Screen capture" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580931106160">
+    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1580932028935">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580931106160" />
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580931593837">
+    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.720@0.23.1280.720" timestamp="1580932028935" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580932045284">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
-    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580931593837" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.720@0.23.1280.720" timestamp="1580932045284" />
     <state x="422" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580803910465">
       <screen x="0" y="23" width="1280" height="720" />
     </state>

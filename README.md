@@ -1,4 +1,4 @@
-To brush up my skills on react and redux, I created this Reminder app that allow a user to add, delete and clear reminders, and all that to be saved in a cookie in the browser using sfcoockis.
+To brush up my skills on react and redux, I created this Reminder app that allow a user to add, delete and clear reminders, and all that to be saved in a cookie in the browser using sfcookies.
 
 
 ![alt text](https://github.com/ajroudi-mohammed/reminder-app/raw/master/screencapture.png)
