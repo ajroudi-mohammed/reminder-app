@@ -20,13 +20,12 @@ class App extends Component{
                 {
                     reminders.map( (reminder) => {
                         return (
-                            <div>
-                                <li className="list-group-item" key={reminder.id}>
-                                    <div>{reminder.text}</div>
-                                    <div>{moment(new Date(reminder.date)).fromNow()}</div>
-                                    <div className="closeIcon btn btn-danger" onClick={() => this.props.remove_reminder(reminder.id) }>X</div>
-                                </li>
-                            </div>
+                            <li key={ reminder.id } className="list-group-item" >
+                                <div>{reminder.text}</div>
+                                <div>{moment(new Date(reminder.date)).fromNow()}</div>
+                                <div className="closeIcon btn btn-danger" onClick={() => this.props.remove_reminder(reminder.id) }>X</div>
+                            </li>
+
                         )
                     } )
                 }
